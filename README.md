@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bd-designer-rokib
 - 👀 I’m interested in Programming Language
 - 🌱 I’m currently learning JavaScript in details
-- 💞️ I’m looking to collaborate on ... HTML, CSS, Bootstrap
+- 💞️ I’m looking to collaborate on ... HTML, CSS, Bootstrap, TailwindCSS, DaisyUI
 - 📫 How to reach me ... rokibulhassan1234@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Love Coding
